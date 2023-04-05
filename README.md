@@ -1,4 +1,7 @@
 # javascript-tic-tac-toe-
+
+LINK:https://utkarsh0044.github.io/javascript-tic-tac-toe-/
+
 A player can play a perfect game of tic-tac-toe (to win or at least draw) if, each time it is their turn to play, they choose the first available move from the following list, as used in Newell and Simon's 1972 tic-tac-toe program.[16]
 
 Win: If the player has two in a row, they can place a third to get three in a row.
